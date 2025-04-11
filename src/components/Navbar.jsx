@@ -15,7 +15,7 @@ export const Navbar = () => {
       <div className="container">
         <div className="grid navbar-grid">
           <div className="logo">
-            <h1>THAPA TECHNICAL</h1>
+            <h1>React js</h1>
           </div>
 
           <nav className={showMenu ? "menu-mobile" : "menu-web"}>
