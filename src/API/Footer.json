@@ -1,0 +1,18 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find Us",
+        "details": "Lahore"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call Us",
+        "details": "+92 308 6917501"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail Us",
+        "details": "abubakarsardar04@gmail.com"
+    }
+
+]
